@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mind-wise/static/css/main.ae94af96.css",
+    "main.js": "/mind-wise/static/js/main.56507050.js",
+    "index.html": "/mind-wise/index.html",
+    "main.ae94af96.css.map": "/mind-wise/static/css/main.ae94af96.css.map",
+    "main.56507050.js.map": "/mind-wise/static/js/main.56507050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae94af96.css",
+    "static/js/main.56507050.js"
+  ]
+}
