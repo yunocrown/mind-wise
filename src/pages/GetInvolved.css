@@ -1,0 +1,702 @@
+.get-involved-child {
+  position: absolute;
+  top: 1210px;
+  left: 720px;
+  background-color: var(--color-gainsboro);
+  width: 108px;
+  height: 227px;
+}
+.image-14-icon {
+  position: absolute;
+  top: 27.93px;
+  left: 121.39px;
+  width: 1013.21px;
+  height: 685.01px;
+  object-fit: cover;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 92.26px;
+  background-color: var(--color-white);
+  width: 1071.48px;
+  height: 216.84px;
+}
+.group-child10 {
+  top: 216.84px;
+  left: 92.26px;
+  width: 522.79px;
+  height: 216.84px;
+}
+.group-child10,
+.group-child11,
+.group-child12,
+.group-child13 {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.group-child11 {
+  top: 666.94px;
+  left: 1008.35px;
+  width: 530.6px;
+  height: 213.65px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.group-child12,
+.group-child13 {
+  top: 402.47px;
+  left: 0;
+  width: 522.79px;
+  height: 252.98px;
+}
+.group-child13 {
+  top: 619.3px;
+  left: 121.39px;
+  width: 1071.48px;
+  height: 203.7px;
+}
+.group-child14,
+.image-14-parent {
+  position: absolute;
+  top: 26px;
+  left: 22px;
+  width: 1222px;
+  height: 823px;
+}
+.group-child14 {
+  top: -1px;
+  left: -1px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 97px;
+  height: 35px;
+}
+.donate1 {
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  font-weight: 300;
+  display: inline-block;
+  width: 53.44px;
+  height: 16.5px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 1153px;
+  width: 95px;
+  height: 33px;
+}
+.our-services1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 49.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 87px;
+  height: 18px;
+}
+.vector-icon5 {
+  position: absolute;
+  top: calc(50% + 1px);
+  left: calc(50% + 41.5px);
+  width: 8px;
+  height: 5px;
+}
+.get-involved2,
+.our-services-group {
+  position: absolute;
+  top: calc(50% - 16.38px);
+  left: calc(50% + 11px);
+  width: 99px;
+  height: 18px;
+  cursor: pointer;
+}
+.get-involved2 {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 49px);
+  font-weight: 300;
+  display: inline-block;
+  width: 90px;
+  height: 17px;
+}
+.vector-icon6 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 41px);
+  width: 8px;
+  height: 5px;
+}
+.get-involved-group,
+.self-assessment1 {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 436px);
+  width: 98px;
+  height: 17px;
+}
+.self-assessment1 {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 74.5px);
+  font-weight: 300;
+  display: inline-block;
+  width: 149px;
+}
+.vector-icon7 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 37.5px);
+  width: 8px;
+  height: 5px;
+}
+.about-us4,
+.self-assessment-group {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 294px);
+  width: 149px;
+  height: 17px;
+  cursor: pointer;
+}
+.about-us4 {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 38px);
+  font-weight: 300;
+  display: inline-block;
+  width: 62px;
+}
+.vector-icon8 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 30px);
+  width: 8px;
+  height: 5px;
+}
+.about-us-group,
+.homepage1 {
+  position: absolute;
+  top: calc(50% - 15.38px);
+  left: calc(50% - 109px);
+  width: 76px;
+  height: 17px;
+}
+.homepage1 {
+  top: calc(50% - 8.5px);
+  left: calc(50% - 43px);
+  font-weight: 300;
+  display: inline-block;
+  width: 75px;
+  cursor: pointer;
+}
+.homepage-group,
+.vector-icon9 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% + 35px);
+  width: 8px;
+  height: 5px;
+}
+.homepage-group {
+  top: calc(50% - 15.38px);
+  left: calc(50% - 580px);
+  width: 86px;
+  height: 17px;
+}
+.group-child15 {
+  position: absolute;
+  top: 42.51px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1290.5px;
+  height: 0.5px;
+}
+.group-frame,
+.group-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1290px;
+  height: 42.76px;
+}
+.group-frame {
+  left: 62px;
+  font-size: var(--font-size-base);
+}
+.group-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-teal-100);
+  width: 1440px;
+  height: 305px;
+}
+.services1 {
+  position: absolute;
+  top: calc(50% - 109px);
+  left: calc(50% - 61px);
+  font-weight: 500;
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.counselling1,
+.mentoring1,
+.online-classes1,
+.phycological-tests1,
+.webinar1 {
+  position: absolute;
+  top: calc(50% - 76.5px);
+  left: calc(50% - 61px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.counselling1,
+.online-classes1,
+.phycological-tests1,
+.webinar1 {
+  top: calc(50% - 42.5px);
+  width: 95px;
+}
+.online-classes1,
+.phycological-tests1,
+.webinar1 {
+  top: calc(50% - 8.5px);
+  width: 104px;
+}
+.phycological-tests1,
+.webinar1 {
+  top: calc(50% + 25.5px);
+}
+.phycological-tests1 {
+  top: calc(50% + 59.5px);
+  width: 122px;
+}
+.mentoring-group,
+.services-group {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% - 61px);
+  width: 122px;
+  height: 153px;
+  font-size: var(--font-size-base);
+}
+.services-group {
+  top: calc(50% - 128.5px);
+  left: calc(50% - 292px);
+  height: 218px;
+  font-size: var(--font-size-xl);
+}
+.company-tagline-with1 {
+  position: absolute;
+  top: calc(50% - 32.5px);
+  left: calc(50% - 144.5px);
+  display: inline-block;
+  width: 289px;
+  height: 65px;
+}
+.company-tagline-with-logo-and-container {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: calc(50% - 638px);
+  width: 289px;
+  height: 65px;
+}
+.mentor-partners1,
+.our-story1,
+.psychologist-partners1 {
+  position: absolute;
+  top: calc(50% - 76.5px);
+  left: calc(50% - 78.5px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.mentor-partners1,
+.psychologist-partners1 {
+  top: calc(50% - 42.5px);
+  width: 121px;
+}
+.psychologist-partners1 {
+  top: calc(50% - 8.5px);
+  width: 157px;
+}
+.advisor-partners1 {
+  top: calc(50% + 25.5px);
+  display: inline-block;
+  width: 112px;
+  height: 17px;
+}
+.advisor-partners1,
+.company1,
+.help1,
+.our-story-group {
+  position: absolute;
+  left: calc(50% - 78.5px);
+}
+.help1 {
+  top: calc(50% + 59.5px);
+  display: inline-block;
+  width: 104px;
+  height: 17px;
+}
+.company1,
+.our-story-group {
+  top: calc(50% - 44px);
+  width: 157px;
+  height: 153px;
+}
+.company1 {
+  top: calc(50% - 109px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 99px;
+  height: 17px;
+}
+.group-parent6 {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% - 93px);
+  width: 157px;
+  height: 218px;
+}
+.advisor1,
+.mentor1 {
+  position: absolute;
+  top: calc(50% - 42.5px);
+  left: calc(50% - 78.5px);
+  display: inline-block;
+  width: 79px;
+  height: 17px;
+}
+.advisor1 {
+  top: calc(50% - 8.5px);
+  width: 121px;
+}
+.join-us-as1,
+.mentor-group,
+.psychologist1 {
+  position: absolute;
+  left: calc(50% - 78.5px);
+  width: 157px;
+}
+.psychologist1 {
+  top: calc(50% + 25.5px);
+  display: inline-block;
+  height: 17px;
+}
+.join-us-as1,
+.mentor-group {
+  top: calc(50% - 10px);
+  height: 85px;
+}
+.join-us-as1 {
+  top: calc(50% - 75px);
+  left: calc(50% - 75.5px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 105px;
+  height: 17px;
+}
+.group-parent7 {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% + 123px);
+  width: 157px;
+  height: 150px;
+}
+.about-our-mission1,
+.our-whole-team-is-dedicated-to-container {
+  position: absolute;
+  top: calc(50% - 0px);
+  left: calc(50% - 144.5px);
+  width: 289px;
+  height: 65px;
+}
+.about-our-mission1 {
+  top: calc(50% - 65px);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 182px;
+  height: 17px;
+}
+.group-parent8 {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% + 330px);
+  width: 289px;
+  height: 130px;
+}
+.group-child17 {
+  position: absolute;
+  height: 5.28%;
+  width: 10.14%;
+  top: 65.57%;
+  right: 16.94%;
+  bottom: 29.15%;
+  left: 72.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 869px;
+  left: 0;
+  width: 1440px;
+  height: 305px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.get-involved-with {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 422px;
+  height: 42px;
+}
+.get-involved-with-us-wrapper {
+  position: absolute;
+  top: 86px;
+  left: 136px;
+  width: 422px;
+  height: 42px;
+  font-size: var(--font-size-13xl);
+}
+.as-a-mentor {
+  position: absolute;
+  top: calc(50% - 54px);
+  left: calc(50% - 440.5px);
+  display: inline-block;
+  width: 881px;
+  height: 108px;
+}
+.as-a-mentor-you-will-have-the-wrapper {
+  position: absolute;
+  top: calc(50% - 60.5px);
+  left: calc(50% - 315.5px);
+  width: 881px;
+  height: 108px;
+}
+.group-child18,
+.group-child19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-teal-200);
+  width: 114px;
+  height: 121px;
+}
+.group-child19 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray);
+  width: 88px;
+  height: 24px;
+}
+.join-today {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 33px);
+  display: inline-block;
+  width: 72px;
+  height: 15px;
+}
+.rectangle-parent3,
+.support-icon {
+  position: absolute;
+  top: 18px;
+  left: 93px;
+  width: 88px;
+  height: 24px;
+}
+.support-icon {
+  top: 17px;
+  left: 21.56px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.mentor2 {
+  position: absolute;
+  top: calc(50% + 23.5px);
+  left: calc(50% - 69.5px);
+  font-size: var(--font-size-base);
+  text-align: center;
+  display: inline-block;
+  width: 72px;
+  height: 15px;
+}
+.group-child20,
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 34.44px;
+  width: 181px;
+  height: 121px;
+}
+.group-child20 {
+  top: 43.56px;
+  left: 0;
+  width: 35px;
+  height: 35px;
+}
+.group-parent10,
+.group-wrapper2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 215.44px;
+  height: 121px;
+}
+.group-wrapper2 {
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.as-an-advisor,
+.group-parent9 {
+  position: absolute;
+  top: calc(50% - 388px);
+  left: calc(50% - 553px);
+  width: 1131px;
+  height: 121px;
+}
+.as-an-advisor {
+  top: calc(50% - 41.5px);
+  left: calc(50% - 440.5px);
+  display: inline-block;
+  width: 881px;
+  height: 83px;
+}
+.as-an-advisor-you-will-work-w-wrapper {
+  position: absolute;
+  top: calc(50% - 65.5px);
+  left: calc(50% - 312.5px);
+  width: 881px;
+  height: 83px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 19px;
+  left: 93px;
+  width: 88px;
+  height: 24px;
+}
+.advisor2 {
+  position: absolute;
+  top: calc(50% + 22.5px);
+  left: calc(50% - 82.5px);
+  font-size: var(--font-size-base);
+  text-align: center;
+  display: inline-block;
+  width: 105px;
+  height: 15px;
+}
+.support-icon1 {
+  position: absolute;
+  top: 17px;
+  left: 22px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  width: 181px;
+  height: 121px;
+}
+.group-child23,
+.group-parent12 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 35px;
+  height: 35px;
+}
+.group-parent12 {
+  top: 10px;
+  width: 216px;
+  height: 121px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.group-parent11 {
+  position: absolute;
+  top: calc(50% - 159px);
+  left: calc(50% - 559px);
+  width: 1137px;
+  height: 131px;
+}
+.as-a-psychologist {
+  margin: 0;
+}
+.as-a-psychologist-container {
+  position: absolute;
+  top: calc(50% - 60.5px);
+  left: calc(50% - 440.5px);
+  display: inline-block;
+  width: 881px;
+  height: 121px;
+}
+.as-a-psychologist-you-will-wo-wrapper,
+.psychologist2 {
+  position: absolute;
+  top: calc(50% - 72px);
+  left: calc(50% - 312.5px);
+  width: 881px;
+  height: 121px;
+}
+.psychologist2 {
+  top: calc(50% + 22.5px);
+  left: calc(50% - 85.5px);
+  font-size: var(--font-size-base);
+  text-align: center;
+  display: inline-block;
+  width: 105px;
+  height: 15px;
+}
+.group-parent14 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 216px;
+  height: 121px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.group-parent13 {
+  position: absolute;
+  top: calc(50% + 58px);
+  left: calc(50% - 559px);
+  width: 1137px;
+  height: 144px;
+}
+.group-parent4 {
+  position: absolute;
+  top: 18px;
+  left: 66px;
+  width: 1440px;
+  height: 1174px;
+}
+.get-involved1 {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1210px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
